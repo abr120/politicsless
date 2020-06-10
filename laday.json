@@ -1,0 +1,36 @@
+[
+ {
+     "title":"مصطلحات سياسية",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/politicsless/master/001.jpg",
+    "arguments":[
+      "PL_CllWsIaHdUWxrkpPVDdKIS4Z3NNjNaa"
+    ]
+  },
+  {
+
+
+    "title":"أحداث في التاريخ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/politicsless/master/002.jpg",
+    "arguments":[
+      "PL_CllWsIaHdUB9VZ7bUP-JplrGbIenbAC"
+    ]
+  },
+      {
+  "title":"اقتصاد 101  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/politicsless/master/003.jpg",
+    "arguments":[
+      "PL_CllWsIaHdX0B28wSxZ5l7nOYFwllRlU"
+    ]
+  },
+      {
+  "title":"لغة جسد الرؤساء",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/politicsless/master/004.jpg",
+    "arguments":[
+      "PL_CllWsIaHdVcywch2LUTmJFEUmdlg9xW"
+    ]
+  }
+]
